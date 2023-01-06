@@ -1,0 +1,5 @@
+include CopyIcon.ico
+include Dump.ico
+include DraggableRectangle.ico
+include LICENSE.txt
+include README.md
