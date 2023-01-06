@@ -1,6 +1,6 @@
 Thank for trying out kimpl! 
 
-kimple is a package designed to extend the functionality of interactive tools in matplotlib. Where possible tools have been developed to be independent of which visualization backend, but some do depend on PyQt5.
+kimpl is a package designed to extend the functionality of interactive tools in matplotlib. Where possible tools have been developed to be independent of which visualization backend, but some do depend on PyQt5.
 
 kimpl was developed over several years as a graduate student at the University of Oregon with Dr. Cathy Wong and at the University of Texas at Austin with Drs. Sean Roberts and Carlos Baiz. 
 
